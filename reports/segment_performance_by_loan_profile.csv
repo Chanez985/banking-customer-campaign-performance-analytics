@@ -1,0 +1,5 @@
+loan_profile,Clients,Converted_Clients,Conversion_Rate,Average_Balance,Average_Campaign_Contacts,Average_Call_Duration
+No Active Loan,17204,3135,18.22,1737.61,2.82,257.92
+Housing Loan Only,20763,1670,8.04,1256.41,2.69,260.91
+Personal Loan Only,2877,219,7.61,752.71,2.98,249.39
+Housing + Personal Loan,4367,265,6.07,788.54,2.74,251.81

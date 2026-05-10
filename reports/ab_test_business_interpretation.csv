@@ -1,0 +1,6 @@
+Item,Interpretation
+Winning Group,Group B - Cellular
+Lower Performing Group,Group A - Telephone
+Conversion Rate Difference (pp),1.5
+Statistically Significant,Yes
+Business Interpretation,"Group B - Cellular shows a higher conversion rate than Group A - Telephone. This suggests that contact channel selection can influence campaign performance. However, since this is an observational historical dataset and not a randomized experiment, the result should be used as Test & Learn evidence rather than strict causal proof."

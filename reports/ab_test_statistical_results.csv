@@ -1,0 +1,10 @@
+Metric,Value
+Group A Clients,2906.0
+Group B Clients,29285.0
+Group A Converted Clients,390.0
+Group B Converted Clients,4369.0
+Group A Conversion Rate (%),13.42
+Group B Conversion Rate (%),14.92
+Difference B - A (percentage points),1.5
+Z-score,2.1706
+P-value,0.029963

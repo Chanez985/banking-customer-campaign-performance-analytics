@@ -1,0 +1,5 @@
+poutcome,Clients,Converted_Clients,Conversion_Rate,Average_Balance,Average_Campaign_Contacts,Average_Call_Duration
+success,1511,978,64.73,1939.3,1.81,316.87
+other,1840,307,16.68,1487.41,2.46,255.72
+failure,4901,618,12.61,1465.81,1.98,244.19
+unknown,36959,3386,9.16,1318.72,2.92,257.74
