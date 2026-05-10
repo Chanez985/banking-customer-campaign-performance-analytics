@@ -1,4 +1,7 @@
 # Banking Customer Campaign Performance Analytics
+## Live Demo
+
+[Open the interactive HTML dashboard](https://chanez985.github.io/banking-customer-campaign-performance-analytics/dashboard/banking_campaign_dashboard.html)
 
 ## Project Overview
 
